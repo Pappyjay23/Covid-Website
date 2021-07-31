@@ -210,6 +210,11 @@
 .about {
     padding: 5rem calc((100vw - 1200px) / 2);
 }
+
+.about__wrap {
+    padding: 0 2rem;
+}
+
 .about__wrap h1 {
     color: var(--purple);
     font-weight: 900;
